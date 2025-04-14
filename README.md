@@ -1,7 +1,7 @@
 # r-template
   An renv based template for easy setup of reproducible repos integrating Flipside data & R for data science.
 
-We recommend R 4.2.3 available here: https://cran.r-project.org/ and RStudio as an IDE here: https://posit.co/download/rstudio-desktop/ 
+We recommend R 4.4.1 available here: https://cran.r-project.org/ and RStudio as an IDE here: https://posit.co/download/rstudio-desktop/ 
 
 # Use as a Template for a new Repo
 
